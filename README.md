@@ -1,14 +1,21 @@
 # twitter-news-analysis
 Visual sentiment analysis of BBC, CBS, CNN, Fox, and New York Times
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f2c971698f9a6452a40de032877a7b12c8101df8
 ## Distinguishing Sentiments
 
 ## Background
 
 __Twitter__ has become a wildly sprawling jungle of information&mdash;140 characters at a time. Somewhere between 350 million and 500 million tweets are estimated to be sent out _per day_. With such an explosion of data, on Twitter and elsewhere, it becomes more important than ever to tame it in some way, to concisely capture the essence of the data.
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f2c971698f9a6452a40de032877a7b12c8101df8
 ## News Mood
 
 In this assignment, you'll create a Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and to present your findings visually.
@@ -38,4 +45,8 @@ As final considerations:
 * Use the Matplotlib and Seaborn libraries.
 * Include a written description of three observable trends based on the data. 
 * Include proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
+<<<<<<< HEAD
 * Include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.
+=======
+* Include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.
+>>>>>>> f2c971698f9a6452a40de032877a7b12c8101df8
